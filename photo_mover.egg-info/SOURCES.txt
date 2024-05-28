@@ -1,0 +1,8 @@
+README.md
+setup.py
+photo_mover.egg-info/PKG-INFO
+photo_mover.egg-info/SOURCES.txt
+photo_mover.egg-info/dependency_links.txt
+photo_mover.egg-info/entry_points.txt
+photo_mover.egg-info/requires.txt
+photo_mover.egg-info/top_level.txt

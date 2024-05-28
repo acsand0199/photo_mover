@@ -1,0 +1,2 @@
+[console_scripts]
+photo-mover = photo_mover.mover:start_monitoring

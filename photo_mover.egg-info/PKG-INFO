@@ -1,0 +1,21 @@
+Metadata-Version: 2.1
+Name: photo-mover
+Version: 0.1.0
+Summary: A script to move photos from the Downloads directory to the Photos directory
+Home-page: https://github.com/yourusername/photo_mover
+Author: Your Name
+Author-email: your.email@example.com
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
+
+# Photo Mover
+
+A script to automatically move photos from the Downloads directory to the Photos directory.
+
+## Installation
+
+```bash
+pip install .
